@@ -8,6 +8,8 @@ I will be showing that HTL is possible, and in fact the Spiking Neural Networks 
 
 The result of this work is the realization of the Hybrid Transfer Learning algorithm, fusion of Deep Learning with the Spiking Neurons in MATLAB environment, as well as the ability to recognize handwritten digits from the MNIST database.
 
+*REFERENCE:  https://github.com/dannyneil/edbn 
+
 ![an image alt text](https://github.com/iam-sr13/Hybrid-Neural-Network/blob/master/Capture2.JPG?raw=true "HNN")
 
 ![an image alt text](https://github.com/iam-sr13/Hybrid-Neural-Network/blob/master/Capture3.JPG?raw=true "HNN")
